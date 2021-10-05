@@ -7,7 +7,8 @@ iOS Application developed in Swift to generate random photos using Unsplash rand
 
 
 ## Screenshots
-![App Screenshot](![Uploading Screenshot 2021-10-05 at 12.28.37 PM.png…]())
+[![ss.png](https://i.postimg.cc/tgZXSTsS/ss.png)](https://postimg.cc/B839tJcH)
+
 
 
 
